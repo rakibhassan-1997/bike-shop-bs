@@ -1,0 +1,12 @@
+
+
+
+.carousel-control-next-icon{
+    background-color: rgba(255, 0, 0, 0.191);
+}
+.carousel-control-prev-icon{
+    background-color: rgba(255, 0, 0, 0.191);
+}
+ul{
+    gap:40px
+}
